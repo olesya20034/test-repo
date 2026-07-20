@@ -1,0 +1,25 @@
+body {
+    font-size: 24px;
+}
+
+/* Базовые цвета */
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+/* Стилизация текста */
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
