@@ -7,7 +7,7 @@ def fizz_buzz(n):
         elif i% 5==0:
            print("Buzz")
         else:
-         print(1)
+         print(i)
 
 fizz_buzz(15)
 
